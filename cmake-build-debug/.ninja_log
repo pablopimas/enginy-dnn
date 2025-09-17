@@ -1,10 +1,6 @@
 # ninja log v6
-1	107	1758143457652451345	build.ninja	bd99ee291ab07f7d
-1	107	1758143457651745462	/Users/CAE9/Library/Mobile Documents/com~apple~CloudDocs/Lab/DeepLearning/EnginyDNN/cmake-build-debug/cmake_install.cmake	bd99ee291ab07f7d
-3	1164	1758142985304828066	CMakeFiles/EnginyDNN.dir/main.cpp.o	cc00d4b8e2a2c193
-1164	1203	1758142986466021297	EnginyDNN	66b827eb28c65d3c
-1	104	1758143457652451345	build.ninja	bd99ee291ab07f7d
-1	104	1758143457652451345	/Users/CAE9/Library/Mobile Documents/com~apple~CloudDocs/Lab/DeepLearning/EnginyDNN/cmake-build-debug/cmake_install.cmake	bd99ee291ab07f7d
+1	104	1758144544293604111	build.ninja	bd99ee291ab07f7d
+1	104	1758144544292692266	/Users/CAE9/Library/Mobile Documents/com~apple~CloudDocs/Lab/DeepLearning/EnginyDNN/cmake-build-debug/cmake_install.cmake	bd99ee291ab07f7d
 5	1187	1758143457663761061	CMakeFiles/EnginyDNN.dir/main.cpp.o	cc00d4b8e2a2c193
 1187	1226	1758143458846320418	EnginyDNN	66b827eb28c65d3c
 1	1276	1758143499574253277	CMakeFiles/test_sigmoid.dir/tests/test_sigmoid.cpp.o	2c741ca3b3fd4d2e
