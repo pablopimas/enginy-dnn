@@ -1,0 +1,4 @@
+/Users/CAE9/Library/Mobile Documents/com~apple~CloudDocs/Lab/DeepLearning/EnginyDNN/build/CMakeFiles/EnginyDNN.dir
+/Users/CAE9/Library/Mobile Documents/com~apple~CloudDocs/Lab/DeepLearning/EnginyDNN/build/CMakeFiles/test_sigmoid.dir
+/Users/CAE9/Library/Mobile Documents/com~apple~CloudDocs/Lab/DeepLearning/EnginyDNN/build/CMakeFiles/edit_cache.dir
+/Users/CAE9/Library/Mobile Documents/com~apple~CloudDocs/Lab/DeepLearning/EnginyDNN/build/CMakeFiles/rebuild_cache.dir

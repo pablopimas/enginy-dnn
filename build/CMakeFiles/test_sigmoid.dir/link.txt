@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_sigmoid.dir/tests/test_sigmoid.cpp.o -o test_sigmoid
