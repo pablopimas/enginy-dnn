@@ -1,6 +1,18 @@
 # EnginyDNN
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/pablopimas/enginy-dnn/releases)
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](LICENSE)
+[![C++20](https://img.shields.io/badge/C++-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
+
 A Deep Learning Library in C++ with xtensor
+
+## Version 1.0.0
+
+This is the first stable release of EnginyDNN, featuring:
+- ✅ Sigmoid activation function with full tensor support
+- ✅ Professional project structure and build system
+- ✅ Comprehensive test suite
+- ✅ Complete documentation
 
 ## Project Structure
 

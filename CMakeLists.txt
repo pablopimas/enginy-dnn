@@ -1,5 +1,8 @@
 cmake_minimum_required(VERSION 3.15)
-project(EnginyDNN LANGUAGES CXX)
+project(EnginyDNN 
+    VERSION 1.0.0
+    DESCRIPTION "Deep Learning Library in C++ with xtensor"
+    LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
