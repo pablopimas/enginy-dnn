@@ -65,9 +65,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "CMake Application.EnginyDNN.executor": "Run",
+    "CMake Application.test_sigmoid.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -90,7 +92,7 @@
       <recent name="$PROJECT_DIR$/src/include/enginydnn" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.EnginyDNN">
+  <component name="RunManager" selected="CMake Application.test_sigmoid">
     <configuration name="EnginyDNN" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EnginyDNN" TARGET_NAME="EnginyDNN" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EnginyDNN" RUN_TARGET_NAME="EnginyDNN">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -118,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758135311769</updated>
-      <workItem from="1758135312848" duration="7080000" />
+      <workItem from="1758135312848" duration="7447000" />
     </task>
     <servers />
   </component>

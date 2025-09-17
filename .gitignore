@@ -1,0 +1,26 @@
+# Build directories
+build/
+cmake-build-debug/
+
+# Compiled executables
+main
+EnginyDNN
+test_*
+
+# IDE files
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+Makefile
+
+# Object files
+*.o
+*.obj
